@@ -8,7 +8,7 @@
 
 原有设备图示：
 
-![example](C:\Users\1\Desktop\新建文件夹\AR-\example.png)
+![example](https://github.com/chaorents/AR-/blob/master/example.png)
 
 在指南区放置实验卡，右侧仓储设置区显示投影，整体设置：20m x 15m，即为长20格，宽15格（每格表示1m^2^）
 
